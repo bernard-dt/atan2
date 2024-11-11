@@ -24,7 +24,9 @@ const double f64AtanTable[101] = {
 int main()
 {
 	double ret;
-	
+
+
+#if 0
 	for (int i = -100000; i < 100000; i = i + 1000)
 	{
 		for (int j = -100000; j < 100000; j = j + 1000)
@@ -35,6 +37,7 @@ int main()
 			Sleep(20);
 		}
 	}
+#endif
 }
 
 
