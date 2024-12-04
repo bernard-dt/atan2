@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\3.Tools\\RunAtan2\\",
+  "WorkspaceRootPath": "D:\\local_repo\\RunAtan2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9E9F8CA9-B434-4457-8018-0AB35E3F6DB5}|RunAtan2.vcxproj|D:\\3.Tools\\RunAtan2\\RunAtan2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{9E9F8CA9-B434-4457-8018-0AB35E3F6DB5}|RunAtan2.vcxproj|D:\\local_repo\\RunAtan2\\RunAtan2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{9E9F8CA9-B434-4457-8018-0AB35E3F6DB5}|RunAtan2.vcxproj|solutionrelative:RunAtan2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E9F8CA9-B434-4457-8018-0AB35E3F6DB5}|RunAtan2.vcxproj|D:\\3.Tools\\RunAtan2\\RunAtan2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{9E9F8CA9-B434-4457-8018-0AB35E3F6DB5}|RunAtan2.vcxproj|D:\\local_repo\\RunAtan2\\RunAtan2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{9E9F8CA9-B434-4457-8018-0AB35E3F6DB5}|RunAtan2.vcxproj|solutionrelative:RunAtan2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -28,24 +28,23 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "RunAtan2.h",
-              "DocumentMoniker": "D:\\3.Tools\\RunAtan2\\RunAtan2.h",
+              "DocumentMoniker": "D:\\local_repo\\RunAtan2\\RunAtan2.h",
               "RelativeDocumentMoniker": "RunAtan2.h",
-              "ToolTip": "D:\\3.Tools\\RunAtan2\\RunAtan2.h",
+              "ToolTip": "D:\\local_repo\\RunAtan2\\RunAtan2.h",
               "RelativeToolTip": "RunAtan2.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAASwBsAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-08T04:53:07.972Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-08T04:53:07.972Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "RunAtan2.c",
-              "DocumentMoniker": "D:\\3.Tools\\RunAtan2\\RunAtan2.c",
+              "DocumentMoniker": "D:\\local_repo\\RunAtan2\\RunAtan2.c",
               "RelativeDocumentMoniker": "RunAtan2.c",
-              "ToolTip": "D:\\3.Tools\\RunAtan2\\RunAtan2.c",
+              "ToolTip": "D:\\local_repo\\RunAtan2\\RunAtan2.c",
               "RelativeToolTip": "RunAtan2.c",
-              "ViewState": "AQIAAFwAAAAAAAAAAAAlwGIAAAAXAAAA",
+              "ViewState": "AQIAACYAAAAAAAAAAAASwCsAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-10-08T04:42:26.678Z",
               "EditorCaption": ""

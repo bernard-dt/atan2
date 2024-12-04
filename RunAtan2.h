@@ -33,3 +33,4 @@ typedef double F64;
 #define Q_15_INV_MINUS_x100		-100.0/32768
 
 extern double Cmath_Gdi_atan2_qMath2(short s16Xdata, short s16Ydata);
+extern double Cmath_Gdi_atan2_qMath3(short s16Xdata, short s16Ydata);
